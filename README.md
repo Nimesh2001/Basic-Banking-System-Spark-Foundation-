@@ -1,2 +1,2 @@
 # Basic-Banking-System
-A simple dynamic website by using php and mariadb database server. 
+A simple dynamic website by using php and Sql using XAMPP server. 
